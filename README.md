@@ -1,0 +1,1 @@
+# Kitty-Thunderstorm-Blue-Rice-Config-And-Dotfiles
